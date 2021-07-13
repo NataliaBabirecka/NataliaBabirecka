@@ -7,7 +7,7 @@
 I am Natalia Babirecka and curently I am working as Junior Accountant but now I would like to start working as a Test Engineer.
 
 I have started to be interested in software testing this year. 
-During this time I have gained solid theoretical knowledge and I begin to learn Python. 
+During this time I have gained solid theoretical knowledge and I began to learn Python. 
 
 My goal is to gain practical knowledge in the testing area and to improve my technical skills.
 
@@ -31,3 +31,6 @@ My goal is to gain practical knowledge in the testing area and to improve my tec
 * K. Zmitrowicz, A. Roman -  Testowanie oprogramowania w praktyce. Studium przypadków
 * K. Zmitrowicz, A. Roman - Testowanie oprogramowania w praktyce. Studium przypadków 2.0
 * K. Pawłowska, N. Pawlak - Fun with bugs
+
+## Courses
+*PCAP - Programming Essentials In Python
