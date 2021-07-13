@@ -32,5 +32,12 @@ My goal is to gain practical knowledge in the testing area and to improve my tec
 * K. Zmitrowicz, A. Roman - Testowanie oprogramowania w praktyce. Studium przypadków 2.0
 * K. Pawłowska, N. Pawlak - Fun with bugs
 
+
 ## Courses
 *PCAP - Programming Essentials In Python
+
+
+## Recommended blogs
+* testerzy.pl
+* testuj.pl - Test, Bugs & Rock'n'Roll
+* remigiuszbednarczyk.pl
