@@ -34,7 +34,7 @@ My goal is to gain practical knowledge in the testing area and to improve my tec
 
 
 ## Courses
-*PCAP - Programming Essentials In Python
+*[PCAP - Programming Essentials In Python](https://fundacja.it/dobra_praca_it/)
 
 
 ## Recommended blogs
