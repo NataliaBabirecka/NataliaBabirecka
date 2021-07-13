@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NataliaBabirecka
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and reading Dragon Ball
 - 📫 How to reach me: nataliababireckaa@gmail.com
 
 ## About me
